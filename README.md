@@ -1,2 +1,2 @@
-# dboa-desktop
-Dboa desktop app
+# tidyaddr-desktop
+tidyaddr crossplatform desktop app
