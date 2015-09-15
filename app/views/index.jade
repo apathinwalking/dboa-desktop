@@ -1,0 +1,5 @@
+extends layout
+block content
+	div(ui-layout="{ flow : 'column', dividerSize: 20}", ng-controller="ctrl")
+		div(ui-layout-container, ng-include="'templates/schema_view.html'")
+		div(ui-layout-container).js-back
